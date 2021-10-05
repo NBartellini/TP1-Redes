@@ -10,3 +10,5 @@ Aclaración:
 los archivos con el dataset train y validation preprocesados por NLTK que se guardaron con Archivo NLTK.ipynb no pudieron ser subidos al github ya que hubo dificultades en subir toda una carpeta. Sin embargo, estos archivos se encuentran guardados en el drive siguiente al igual que todos los archivos que se encuentran en este repositorio:
 
 https://drive.google.com/drive/folders/1mHl6KiKdPOJdEGORa3D08HzH7NA9UqpF?usp=sharing
+
+Actualización: se logró realizar la carga de archivos NLTK
