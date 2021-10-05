@@ -11,4 +11,4 @@ los archivos con el dataset train y validation preprocesados por NLTK que se gua
 
 https://drive.google.com/drive/folders/1mHl6KiKdPOJdEGORa3D08HzH7NA9UqpF?usp=sharing
 
-Actualización: se logró realizar la carga de archivos NLTK
+Actualización: no se logró realizar la carga de archivos NLTK debido al tamaño de los mismos, utilizar drive si se quiere correr esa parte de código
